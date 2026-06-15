@@ -35,7 +35,7 @@ unknownValue = "Emmanuel";
 // functions in TypeScript
 
 // Function with typed parameters and return type string
-function greet(name: string): string {
+function greetBasic(name: string): string {
   return `Hello, ${name}!`;
 }
 
